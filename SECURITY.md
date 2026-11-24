@@ -7,7 +7,7 @@ it has been deployed, so please report it privately first.
 ## Reporting a vulnerability
 
 Use GitHub's private vulnerability reporting:
-[**Report a vulnerability**](https://github.com/zenpachi-alt/endpoint-engineering/security/advisories/new),
+[**Report a vulnerability**](https://github.com/zenpachi-lab/endpoint-engineering/security/advisories/new),
 also reachable from the repository's **Security** tab. It needs a GitHub
 account. The report is visible only to you and to me until an advisory is
 published.
